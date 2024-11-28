@@ -1,1 +1,5 @@
-# natural_language_processing_specialization
+<div align="center">
+
+# Natural Language Processing Specialization
+
+</div>
